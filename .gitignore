@@ -136,4 +136,4 @@ dist
 .pnp.*
 
 .env
-./data/*
+data/
